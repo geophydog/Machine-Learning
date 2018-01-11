@@ -4,8 +4,4 @@
 
 ***
 
-# Machine-Learning
-
-***
-
 ### 1. [Stanford Machine Learning by Andrew Ng](http://www.holehouse.org/mlclass/index.html)
