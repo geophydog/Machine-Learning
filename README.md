@@ -5,3 +5,7 @@
 ***
 
 ### 1. [Stanford Machine Learning by Andrew Ng](http://www.holehouse.org/mlclass/index.html)
+
+***
+
+### 2. [DL/ML Tutorials by Hungyi Lee @ NTU](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
