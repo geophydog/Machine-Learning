@@ -12,7 +12,7 @@
 
 ----
 
-## 2. Algorithms = 
+## 2. Algorithms
 ### 2.1  [CNN](https://github.com/geophydog/Machine-Learning/blob/master/CNN/index.md) 
 
 ----
