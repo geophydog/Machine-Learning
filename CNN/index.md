@@ -22,5 +22,4 @@ KNN算法描述如下：
 | L1 Manhattan distance | L2 EUclidean distance |
 | --------------------- | --------------------- |
 
-
-d_1(I_1, I_2) = \sum|I_1^p - I_2^p|
+$$ d_1(I_1, I_2) = \sum|I_1^p - I_2^p| $$
