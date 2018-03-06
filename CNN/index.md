@@ -1,1 +1,1 @@
-### :one: K-Nearest Neighbor
+### :one: K-Nearest Neighbor (KNN)
