@@ -9,3 +9,5 @@
 ***
 
 ### 2. [DL/ML Tutorials by Hungyi Lee @ NTU](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
+
+### 3. [CNN]
