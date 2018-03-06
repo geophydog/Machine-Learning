@@ -10,4 +10,6 @@
 
 ### 2. [DL/ML Tutorials by Hungyi Lee @ NTU](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
 
-### 3. [CNN]
+***
+
+### 3. [CNN](https://github.com/geophydog/Machine-Learning/blob/master/CNN/index.md)
